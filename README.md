@@ -46,14 +46,22 @@ The performance is currently not great (check out the demo screenshot).
 ## Data
 The samples were manually obtained through the following websites:
 [Quran Central](https://qurancentral.com/)
+
 [Quran Player MP3](https://www.quranplayermp3.com/)
+
 Web scraping scripts didn't really work...
 
 
 ## Preprocessing
-For the preprocessing I wrote two PowerShell scripts: *resample_segment_audio_files.ps1* and *trim_audio.ps1*. Both utilize [ffmpeg](https://www.ffmpeg.org/).
+For the preprocessing I wrote two PowerShell scripts: *trim_audio.ps1* and *resample_segment_audio_files.ps1*. Both utilize [ffmpeg](https://www.ffmpeg.org/).
 
-1. resample_segment_audio_files.ps1
+
+### trim_audio.ps1
+Trims the beginning of the original audio files (start time and file is specified in the correction.csv file located in data_and_models\data\
+
+### resample_segment_audio_files.ps1:
+As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
+
 
 ## Augmentation
 I categorized the slang words as:
