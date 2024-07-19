@@ -17,29 +17,43 @@ DLQR is an experimental project for Qur'an recognition via Deep-Learning. A tota
 
 
 ## Usage
+**Example 1:**
+>```
+>python --predict -t reciter -i .\path\to_some\file.mp3 -dev cpu
+>```
+or
+>```
+>python --predict --target reciter --input .\path\to_some\file.mp3 --device cuda
+>```
+\
+\
+**Example 2:**
+>```
+>python --train -m cnn_reciter -dev cuda
+>```
+or
+>```
+>python --train --model cnn_reciter --device cpu
+>```
+
 You can predict with the included pre-trained models (currently one model), and re-train if needed. Delete the existing model to train from scratch.
 
 
-
 ## Performance
+The performance is currently not great (check out the demo screenshot).
 
 
-* **NeuralNet_2l_lin:** Neural Network with 2 linear layers
-* **NeuralNet_4l_relu_lin:** Neural Network with 4 linear layers and 3 ReLU layers
-
-The best **F<sub>1</sub> score is ~71.4% with model NeuralNet_2l_lin**
-
-**Note:** Score on the test set with the best parameters within 100 epochs of training, with the original training data.
-
-
-## Issues
-- The training dataset is still too small, resulting in overfitting (after augmentation).
-- Reproducibility is an issue with regard to training.
+## Data
+The samples were manually obtained through the following websites:
+[Quran Central](https://qurancentral.com/)
+[Quran Player MP3](https://www.quranplayermp3.com/)
+Web scraping scripts didn't really work...
 
 
 ## Preprocessing
-The preprocessing script removes the slang tags, brackets, hyphens, and converts everything to lowercase.
+For the preprocessing I wrote two PowerShell scripts: *resample_segment_audio_files.ps1* and *trim_audio.ps1*. Both utilize [ffmpeg](https://www.ffmpeg.org/).
 
+1. resample_segment_audio_files.ps1
 
 ## Augmentation
 I categorized the slang words as:
