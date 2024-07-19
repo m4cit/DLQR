@@ -1,5 +1,5 @@
 # Deep Learning Quran Recognition
-DLQR is an experimental project for Qur'an recognition via Deep-Learning. A total of 34,403 audio samples were used to train a custom Convolutional Neural Network. The goal is to predict the reciter through audio inputs. There is also a model for chapter prediction, but not trained or fully thought out yet.
+DLQR is an experimental project for Qur'an audio recognition via Deep-Learning. A total of 34,403 audio samples were used to train a custom Convolutional Neural Network. The goal is to predict the reciter through audio inputs. There is also a model for chapter prediction, but not trained or fully thought out yet.
 
 The Deep-Learning framework used is PyTorch.
 
