@@ -1,6 +1,8 @@
 # Deep Learning Quran Recognition
 DLQR is an experimental project for Qur'an recognition via Deep-Learning. A total of 34,403 audio samples were used to train a custom Convolutional Neural Network. The goal is to predict the reciter through audio inputs. There is also a model for chapter prediction, but not trained or fully thought out yet.
 
+The Deep-Learning framework used is PyTorch.
+
 ## Gallery
 ### Icon
 <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/gallery/icon.png' height="120">
@@ -45,6 +47,7 @@ The performance is currently not great (check out the demo screenshot).
 
 ## Data
 The samples were manually obtained through the following websites:
+
 [Quran Central](https://qurancentral.com/)
 
 [Quran Player MP3](https://www.quranplayermp3.com/)
@@ -53,57 +56,18 @@ Web scraping scripts didn't really work...
 
 
 ## Preprocessing
-For the preprocessing I wrote two PowerShell scripts: *trim_audio.ps1* and *resample_segment_audio_files.ps1*. Both utilize [ffmpeg](https://www.ffmpeg.org/).
+For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](https://www.ffmpeg.org/).
 
+This could have been achieved with PyTorch itself, but I always wanted to write a PowerShell script :)
 
 ### trim_audio.ps1
-Trims the beginning of the original audio files (start time and file is specified in the correction.csv file located in data_and_models\data\
+Trims the beginning of the original audio files (start time and details are specified in the correction.csv file, located in data_and_models\data\). Most files from the cited websites include a portion in the beginning, which most of the time isn't from the reciters themselves.
 
 ### resample_segment_audio_files.ps1:
 As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
 
 
-## Augmentation
-I categorized the slang words as:
-* \<pex> personal expressions
-  * _dude, one and only, bro_
-* \<n> singular nouns
-  * _shit_
-* \<npl> plural nouns
-  * _crybabies_
-* \<shnpl> shortened plural nouns
-  * _ppl_
-* \<mwn> multiword nouns
-  * _certified vaccine freak_
-* \<mwexn> multiword nominal expressions
-  * _a good one_
-* \<en> exaggerated nouns
-  * _guysssss_
-* \<eex> (exaggerated) expressions
-  * _hahaha, aaaaaah, lmao_
-* \<adj> adjectives
-  * _retarded_
-* \<eadj> exaggerated adjectives
-  * _weirdddddd_
-* \<sha> shortened adjectives
-  * _on_
-* \<shmex> shortened (multiword) expressions
-  * _tbh, imo_
-* \<v> infinitive verb
-  * _trigger_
-
-(not all tags are available due to the small dataset)
-
-
-## Source of the data
-Most of the phrases come from archive.org's [Twitter Stream of June 6th](https://archive.org/details/archiveteam-twitter-stream-2021-06).
-
-
-## Recognition of Open Source use
-* PyTorch
-* scikit-learn
-* customtkinter
-* pandas
-* numpy
-* tqdm
+## Used Libraries / Open Source Projects
+* [PyTorch](https://pytorch.org/) and its dependencies
+* [tqdm](https://tqdm.github.io/)
 
