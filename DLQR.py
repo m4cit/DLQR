@@ -8,10 +8,10 @@ if __name__ == '__main__':
     parser.add_argument('--predict', action='store_true', help='Predict mode.')
     parser.add_argument('--train', action='store_true', help='Train mode.')
     parser.add_argument('--demo', action='store_true', help='Test-Set Demo.')
-    parser.add_argument('-t', '--target', type=str, choices=('reciter'), required=False, default='all', help='Prediction target: "reciter", "chapter", or "all".')
+    parser.add_argument('-t', '--target', type=str, choices=['reciter'], required=False, default='all', help='Prediction target: "reciter", "chapter", or "all".')
     parser.add_argument('-i', '--input', type=str, required=False, help='Audio file input for prediction / inference.')
     parser.add_argument('-dev', '--device', type=str, choices=device_options, default='cpu', required=False, help='Device selection for training and inference / predicting.')
-    parser.add_argument('-m', '--model', type=str, choices=('cnn_reciter'), required=False, help='Model selection for training: "cnn_reciter" or "cnn_chapter".')
+    parser.add_argument('-m', '--model', type=str, choices=['cnn_reciter'], required=False, help='Model selection for training: "cnn_reciter" or "cnn_chapter".')
     args = parser.parse_args()
     
     # demo
