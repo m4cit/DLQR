@@ -43,7 +43,7 @@ The samples were manually obtained through the following websites:
 
 [Quran Player MP3](https://www.quranplayermp3.com/)
 
-Web scraping scripts didn't really work...
+Web scraping scripts didn't really work, and only MP3s were available.
 
 
 ## Preprocessing
@@ -52,7 +52,7 @@ For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](http
 This could have been achieved with PyTorch itself, but I always wanted to write some PowerShell scripts :)
 
 ### trim_audio.ps1:
-Trims the beginning of the original audio files (start time and details are specified in the correction.csv file, located in data_and_models\data\). Most files from the cited websites contain a portion in the beginning, which isn't from the reciters themselves.
+Trims the beginning of the original audio files (start time and details are specified in the correction.csv file, located in data_and_models\data\). Most files from the cited websites contain a portion in the beginning, which aren't from the reciters themselves.
 
 ### resample_segment_audio_files.ps1:
 As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
