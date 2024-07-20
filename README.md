@@ -60,7 +60,7 @@ For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](http
 
 This could have been achieved with PyTorch itself, but I always wanted to write a PowerShell script :)
 
-### trim_audio.ps1
+### trim_audio.ps1:
 Trims the beginning of the original audio files (start time and details are specified in the correction.csv file, located in data_and_models\data\). Most files from the cited websites include a portion in the beginning, which most of the time isn't from the reciters themselves.
 
 ### resample_segment_audio_files.ps1:
