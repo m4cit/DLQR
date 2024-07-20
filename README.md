@@ -61,7 +61,7 @@ As the name suggests, this script is resampling the original audio files and spl
 
 
 ## Performance
-<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/gallery/demo.png' width="900">
+<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo.png' width="900">
 
 The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
 
