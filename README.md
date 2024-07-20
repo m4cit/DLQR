@@ -49,7 +49,7 @@ Web scraping scripts didn't really work...
 ## Preprocessing
 For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](https://www.ffmpeg.org/).
 
-This could have been achieved with PyTorch itself, but I always wanted to write a PowerShell script :)
+This could have been achieved with PyTorch itself, but I always wanted to write some PowerShell scripts :)
 
 ### trim_audio.ps1:
 Trims the beginning of the original audio files (start time and details are specified in the correction.csv file, located in data_and_models\data\). Most files from the cited websites contain a portion in the beginning, which isn't from the reciters themselves.
