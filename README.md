@@ -19,21 +19,21 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning (
 ## Usage
 **Example 1:**
 >```
->python --predict -t reciter -i .\path\to_some\file.mp3 -dev cpu
+>python DLQR.py --predict -t reciter -i .\path\to_some\file.mp3 -dev cpu
 >```
 or
 >```
->python --predict --target reciter --input .\path\to_some\file.mp3 --device cuda
+>python DLQR.py --predict --target reciter --input .\path\to_some\file.mp3 --device cuda
 >```
 \
 \
 **Example 2:**
 >```
->python --train -m cnn_reciter -dev cuda
+>python DLQR.py --train -m cnn_reciter -dev cuda
 >```
 or
 >```
->python --train --model cnn_reciter --device cpu
+>python DLQR.py --train --model cnn_reciter --device cpu
 >```
 
 You can predict with the included pre-trained models (currently one model), and re-train if needed. Delete the existing model to train from scratch.
