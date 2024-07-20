@@ -4,7 +4,7 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning (
 
 <p float="left">
   <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' height="200">
-  <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/social_preview.png' height="400">
+  <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/social_preview.png' height="300">
 </p>
 
 
