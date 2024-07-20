@@ -1,0 +1,536 @@
+folder,chapter num,chapter name,reciter id,length
+Abdul-Baset-Abdul-Samad,1,Al-Fatiha | The Opener,0,short
+Abdul-Baset-Abdul-Samad,2,Al-Baqarah | The Cow,0,long
+Abdul-Baset-Abdul-Samad,3,Ali 'Imran | Family of 'Imran,0,long
+Abdul-Baset-Abdul-Samad,4,An-Nisa | The Women,0,long
+Abdul-Baset-Abdul-Samad,5,Al-Ma'idah | The Table Spread,0,long
+Abdul-Baset-Abdul-Samad,6,Al-An'am | The Cattle,0,long
+Abdul-Baset-Abdul-Samad,7,Al-A'raf | The Heights,0,long
+Abdul-Baset-Abdul-Samad,8,Al-Anfal | The Spoils of War,0,medium
+Abdul-Baset-Abdul-Samad,9,At-Tawbah | The Repentance,0,medium long
+Abdul-Baset-Abdul-Samad,10,Yunus | Jonah,0,medium
+Abdul-Baset-Abdul-Samad,11,Hud | Hud,0,medium long
+Abdul-Baset-Abdul-Samad,12,Yusuf | Joseph,0,medium long
+Abdul-Baset-Abdul-Samad,13,Ar-Ra'd | The Thunder,0,medium short
+Abdul-Baset-Abdul-Samad,14,Ibrahim | Abraham,0,medium short
+Abdul-Baset-Abdul-Samad,15,Al-Hijr | The Rocky Tract,0,medium short
+Abdul-Baset-Abdul-Samad,16,An-Nahl | The Bee,0,medium long
+Abdul-Baset-Abdul-Samad,17,Al-Isra | The Night Journey,0,medium
+Abdul-Baset-Abdul-Samad,18,Al-Kahf | The Cave,0,medium
+Abdul-Baset-Abdul-Samad,19,Maryam | Mary,0,medium
+Abdul-Baset-Abdul-Samad,20,Ta Ha | The letters Ta and Ha,0,medium
+Abdul-Baset-Abdul-Samad,21,Al-Anbya | The Prophets,0,medium
+Abdul-Baset-Abdul-Samad,22,Al-Hajj | The Pilgrimage,0,medium
+Abdul-Baset-Abdul-Samad,23,Al-Mu'minun | The Believers,0,medium
+Abdul-Baset-Abdul-Samad,24,An-Nur | The Light,0,medium
+Abdul-Baset-Abdul-Samad,25,Al Furqan | The Criterion,0,medium
+Abdul-Baset-Abdul-Samad,26,Ash-Shu'ara | The Poets,0,medium
+Abdul-Baset-Abdul-Samad,27,An-Naml | The Ant,0,medium
+Abdul-Baset-Abdul-Samad,28,Al-Qasas | The Stories,0,medium
+Abdul-Baset-Abdul-Samad,29,Al-'Ankabut | The Spider,0,medium
+Abdul-Baset-Abdul-Samad,30,Ar-Rum | The Romans,0,medium short
+Abdul-Baset-Abdul-Samad,31,Luqman | Luqman,0,medium short
+Abdul-Baset-Abdul-Samad,32,As-Sajdah | The Prostration,0,medium short
+Abdul-Baset-Abdul-Samad,33,Al-Ahzab| The Combined Forces,0,medium
+Abdul-Baset-Abdul-Samad,34,Saba | Sheba,0,medium
+Abdul-Baset-Abdul-Samad,35,Fatir | Originator,0,medium
+Abdul-Baset-Abdul-Samad,36,Ya Sin | The letters Ya and Sin,0,medium
+Abdul-Baset-Abdul-Samad,37,As-Saffat | Those who set the Ranks,0,medium
+Abdul-Baset-Abdul-Samad,38,Sad | The letter Sad,0,medium
+Abdul-Baset-Abdul-Samad,39,Az-Zumar | The Troops,0,medium
+Abdul-Baset-Abdul-Samad,40,Ghafir | The Forgiver,0,medium
+Abdul-Baset-Abdul-Samad,41,Fussilat | Explained in Detail,0,medium
+Abdul-Baset-Abdul-Samad,42,Ash-Shuraa | The Consultation,0,medium
+Abdul-Baset-Abdul-Samad,43,Az-Zukhruf | The Ornaments of Gold,0,medium
+Abdul-Baset-Abdul-Samad,44,Ad-Dukhan | The Smoke,0,medium short
+Abdul-Baset-Abdul-Samad,45,Al-Jathiyah | The Crouching,0,medium short
+Abdul-Baset-Abdul-Samad,46,Al-Ahqaf | The Wind-Curved Sandhills,0,medium short
+Abdul-Baset-Abdul-Samad,47,Muhammad,0,medium short
+Abdul-Baset-Abdul-Samad,48,Al-Fath | The Victory,0,medium short
+Abdul-Baset-Abdul-Samad,49,Al-Hujurat | The Rooms,0,medium short
+Abdul-Baset-Abdul-Samad,50,Qaf | The letter Qaf,0,medium short
+Abdul-Baset-Abdul-Samad,51,Adh-Dhariyat | The Winnowing Winds,0,medium short
+Abdul-Baset-Abdul-Samad,52,At-Tur | The Mountain,0,medium short
+Abdul-Baset-Abdul-Samad,53,An-Najm | The Star,0,medium short
+Abdul-Baset-Abdul-Samad,54,Al-Qamar | The Moon,0,medium short
+Abdul-Baset-Abdul-Samad,55,Ar-Rahman | The Beneficent,0,medium short
+Abdul-Baset-Abdul-Samad,56,Al-Waqi'ah | The Inevitable,0,medium short
+Abdul-Baset-Abdul-Samad,57,Al-Hadid | The Iron,0,medium short
+Abdul-Baset-Abdul-Samad,58,Al-Mujadila | The Pleading Woman,0,medium short
+Abdul-Baset-Abdul-Samad,59,Al-Hashr | The Exile,0,medium short
+Abdul-Baset-Abdul-Samad,60,Al-Mumtahanah | She that is to be examined,0,medium short
+Abdul-Baset-Abdul-Samad,61,As-Saf | The Ranks,0,short
+Abdul-Baset-Abdul-Samad,62,Al-Jumu'ah | The Congregation / Friday,0,short
+Abdul-Baset-Abdul-Samad,63,Al-Munafiqun | The Hypocrites,0,short
+Abdul-Baset-Abdul-Samad,64,At-Taghabun | The Mutual Disillusion,0,short
+Abdul-Baset-Abdul-Samad,65,At-Talaq | The Divorce,0,short
+Abdul-Baset-Abdul-Samad,66,At-Tahrim | The Prohibition,0,short
+Abdul-Baset-Abdul-Samad,67,Al-Mulk | The Sovereignty,0,short
+Abdul-Baset-Abdul-Samad,68,Al-Qalam | The Pen,0,short
+Abdul-Baset-Abdul-Samad,69,Al-Haqqah | The Reality,0,short
+Abdul-Baset-Abdul-Samad,70,Al-Ma'arij | The Ascending Stairways,0,short
+Abdul-Baset-Abdul-Samad,71,Nuh | Noah,0,short
+Abdul-Baset-Abdul-Samad,72,Al-Jinn | The Jinn,0,short
+Abdul-Baset-Abdul-Samad,73,Al-Muzzammil | The Enshrouded One,0,short
+Abdul-Baset-Abdul-Samad,74,Al-Muddaththir | The Cloaked One,0,short
+Abdul-Baset-Abdul-Samad,75,Al-Qiyamah | The Resurrection,0,short
+Abdul-Baset-Abdul-Samad,76,Al-Insan | The Human,0,short
+Abdul-Baset-Abdul-Samad,77,Al-Mursalat | Emissaries,0,short
+Abdul-Baset-Abdul-Samad,78,An-Naba | The Tidings,0,short
+Abdul-Baset-Abdul-Samad,79,An-Nazi'at | Those who drag forth,0,short
+Abdul-Baset-Abdul-Samad,80,'Abasa | He Frowned,0,short
+Abdul-Baset-Abdul-Samad,81,At-Takwir | The Overthrowing,0,short
+Abdul-Baset-Abdul-Samad,82,Al-Infitar | The Cleaving,0,short
+Abdul-Baset-Abdul-Samad,83,Al-Mutaffifin | The Defrauding,0,short
+Abdul-Baset-Abdul-Samad,84,Al-Inshiqaq | The Sundering,0,short
+Abdul-Baset-Abdul-Samad,85,Al-Buruj | The Mansions of the Stars,0,short
+Abdul-Baset-Abdul-Samad,86,At-Tariq | The Nightcomer,0,short
+Abdul-Baset-Abdul-Samad,87,Al-A'la | The Most High,0,short
+Abdul-Baset-Abdul-Samad,88,Al-Ghashiyah | The Overwhelming,0,short
+Abdul-Baset-Abdul-Samad,89,Al-Fajr | The Dawn,0,short
+Abdul-Baset-Abdul-Samad,90,Al-Balad | The City,0,short
+Abdul-Baset-Abdul-Samad,91,Ash-Shams | The Sun,0,short
+Abdul-Baset-Abdul-Samad,92,Al-Layl | The Night,0,short
+Abdul-Baset-Abdul-Samad,93,Ad-Duhaa | The Morning Hours,0,short
+Abdul-Baset-Abdul-Samad,94,Ash-Sharh | The Relief,0,short
+Abdul-Baset-Abdul-Samad,95,At-Tin | The Fig,0,short
+Abdul-Baset-Abdul-Samad,96,Al-'Alaq | The Clot,0,short
+Abdul-Baset-Abdul-Samad,97,Al-Qadr | The Power,0,short
+Abdul-Baset-Abdul-Samad,98,Al-Bayyinah | The Clear Proof,0,short
+Abdul-Baset-Abdul-Samad,99,Az-Zalzalah | The Earthquake,0,short
+Abdul-Baset-Abdul-Samad,100,Al-'Adiyat | The Courser,0,short
+Abdul-Baset-Abdul-Samad,101,Al-Qari'ah | The Calamity,0,short
+Abdul-Baset-Abdul-Samad,102,At-Takathur | The Rivalry in world increase,0,short
+Abdul-Baset-Abdul-Samad,103,Al-'Asr | The Declining Day,0,short
+Abdul-Baset-Abdul-Samad,104,Al-Humazah | The Traducer,0,short
+Abdul-Baset-Abdul-Samad,105,Al-Fil | The Elephant,0,short
+Abdul-Baset-Abdul-Samad,106,Quraysh,0,short
+Abdul-Baset-Abdul-Samad,107,Al-Ma'un | The Small Kindnesses,0,short
+Abdul-Baset-Abdul-Samad,108,Al-Kawthar | The Abundance,0,short
+Abdul-Baset-Abdul-Samad,109,Al-Kafirun | The Disbelievers,0,short
+Abdul-Baset-Abdul-Samad,110,An-Nasr | The Divine Support,0,short
+Abdul-Baset-Abdul-Samad,111,Al-Masad | The Palm Fiber,0,short
+Abdul-Baset-Abdul-Samad,112,Al-Ikhlas | The Sincerity,0,short
+Abdul-Baset-Abdul-Samad,113,Al-Falaq | The Daybreak,0,short
+Abdul-Baset-Abdul-Samad,114,An-Nas | Mankind,0,short
+Omar-Hisham-Al-Arabi,12,Yusuf | Joseph,1,medium long
+Omar-Hisham-Al-Arabi,14,Ibrahim | Abraham,1,medium short
+Omar-Hisham-Al-Arabi,16,An-Nahl | The Bee,1,medium long
+Omar-Hisham-Al-Arabi,17,Al-Isra | The Night Journey,1,medium
+Omar-Hisham-Al-Arabi,18,Al-Kahf | The Cave,1,medium
+Omar-Hisham-Al-Arabi,19,Maryam | Mary,1,medium
+Omar-Hisham-Al-Arabi,20,Ta Ha | The letters Ta and Ha,1,medium
+Omar-Hisham-Al-Arabi,22,Al-Hajj | The Pilgrimage,1,medium
+Omar-Hisham-Al-Arabi,25,Al Furqan | The Criterion,1,medium
+Omar-Hisham-Al-Arabi,32,As-Sajdah | The Prostration,1,medium short
+Omar-Hisham-Al-Arabi,36,Ya Sin | The letters Ya and Sin,1,medium
+Omar-Hisham-Al-Arabi,40,Ghafir | The Forgiver,1,medium
+Omar-Hisham-Al-Arabi,44,Ad-Dukhan | The Smoke,1,medium short
+Omar-Hisham-Al-Arabi,49,Al-Hujurat | The Rooms,1,medium short
+Omar-Hisham-Al-Arabi,50,Qaf | The letter Qaf,1,medium short
+Omar-Hisham-Al-Arabi,51,Adh-Dhariyat | The Winnowing Winds,1,medium short
+Omar-Hisham-Al-Arabi,52,At-Tur | The Mountain,1,medium short
+Omar-Hisham-Al-Arabi,53,An-Najm | The Star,1,medium short
+Omar-Hisham-Al-Arabi,54,Al-Qamar | The Moon,1,medium short
+Omar-Hisham-Al-Arabi,55,Ar-Rahman | The Beneficent,1,medium short
+Omar-Hisham-Al-Arabi,56,Al-Waqi'ah | The Inevitable,1,medium short
+Omar-Hisham-Al-Arabi,58,Al-Mujadila | The Pleading Woman,1,medium short
+Omar-Hisham-Al-Arabi,59,Al-Hashr | The Exile,1,medium short
+Omar-Hisham-Al-Arabi,61,As-Saf | The Ranks,1,short
+Omar-Hisham-Al-Arabi,62,Al-Jumu'ah | The Congregation / Friday,1,short
+Omar-Hisham-Al-Arabi,66,At-Tahrim | The Prohibition,1,short
+Omar-Hisham-Al-Arabi,67,Al-Mulk | The Sovereignty,1,short
+Omar-Hisham-Al-Arabi,68,Al-Qalam | The Pen,1,short
+Omar-Hisham-Al-Arabi,69,Al-Haqqah | The Reality,1,short
+Omar-Hisham-Al-Arabi,70,Al-Ma'arij | The Ascending Stairways,1,short
+Omar-Hisham-Al-Arabi,71,Nuh | Noah,1,short
+Omar-Hisham-Al-Arabi,72,Al-Jinn | The Jinn,1,short
+Omar-Hisham-Al-Arabi,73,Al-Muzzammil | The Enshrouded One,1,short
+Omar-Hisham-Al-Arabi,75,Al-Qiyamah | The Resurrection,1,short
+Omar-Hisham-Al-Arabi,76,Al-Insan | The Human,1,short
+Omar-Hisham-Al-Arabi,77,Al-Mursalat | Emissaries,1,short
+Omar-Hisham-Al-Arabi,78,An-Naba | The Tidings,1,short
+Omar-Hisham-Al-Arabi,79,An-Nazi'at | Those who drag forth,1,short
+Omar-Hisham-Al-Arabi,80,'Abasa | He Frowned,1,short
+Omar-Hisham-Al-Arabi,81,At-Takwir | The Overthrowing,1,short
+Omar-Hisham-Al-Arabi,82,Al-Infitar | The Cleaving,1,short
+Omar-Hisham-Al-Arabi,85,Al-Buruj | The Mansions of the Stars,1,short
+Omar-Hisham-Al-Arabi,86,At-Tariq | The Nightcomer,1,short
+Omar-Hisham-Al-Arabi,87,Al-A'la | The Most High,1,short
+Omar-Hisham-Al-Arabi,88,Al-Ghashiyah | The Overwhelming,1,short
+Omar-Hisham-Al-Arabi,89,Al-Fajr | The Dawn,1,short
+Omar-Hisham-Al-Arabi,90,Al-Balad | The City,1,short
+Omar-Hisham-Al-Arabi,91,Ash-Shams | The Sun,1,short
+Omar-Hisham-Al-Arabi,92,Al-Layl | The Night,1,short
+Omar-Hisham-Al-Arabi,93,Ad-Duhaa | The Morning Hours,1,short
+Omar-Hisham-Al-Arabi,94,Ash-Sharh | The Relief,1,short
+Omar-Hisham-Al-Arabi,95,At-Tin | The Fig,1,short
+Omar-Hisham-Al-Arabi,96,Al-'Alaq | The Clot,1,short
+Omar-Hisham-Al-Arabi,97,Al-Qadr | The Power,1,short
+Omar-Hisham-Al-Arabi,98,Al-Bayyinah | The Clear Proof,1,short
+Omar-Hisham-Al-Arabi,99,Az-Zalzalah | The Earthquake,1,short
+Omar-Hisham-Al-Arabi,100,Al-'Adiyat | The Courser,1,short
+Omar-Hisham-Al-Arabi,101,Al-Qari'ah | The Calamity,1,short
+Omar-Hisham-Al-Arabi,102,At-Takathur | The Rivalry in world increase,1,short
+Omar-Hisham-Al-Arabi,103,Al-'Asr | The Declining Day,1,short
+Omar-Hisham-Al-Arabi,104,Al-Humazah | The Traducer,1,short
+Omar-Hisham-Al-Arabi,105,Al-Fil | The Elephant,1,short
+Omar-Hisham-Al-Arabi,106,Quraysh,1,short
+Omar-Hisham-Al-Arabi,107,Al-Ma'un | The Small Kindnesses,1,short
+Omar-Hisham-Al-Arabi,109,Al-Kafirun | The Disbelievers,1,short
+Omar-Hisham-Al-Arabi,110,An-Nasr | The Divine Support,1,short
+Omar-Hisham-Al-Arabi,111,Al-Masad | The Palm Fiber,1,short
+Omar-Hisham-Al-Arabi,112,Al-Ikhlas | The Sincerity,1,short
+Omar-Hisham-Al-Arabi,113,Al-Falaq | The Daybreak,1,short
+Omar-Hisham-Al-Arabi,114,An-Nas | Mankind,1,short
+Raad-Mohammad-Al-Kurdi,1,Al-Fatiha | The Opener,2,short
+Raad-Mohammad-Al-Kurdi,3,Ali 'Imran | Family of 'Imran,2,long
+Raad-Mohammad-Al-Kurdi,12,Yusuf | Joseph,2,medium long
+Raad-Mohammad-Al-Kurdi,13,Ar-Ra'd | The Thunder,2,medium short
+Raad-Mohammad-Al-Kurdi,17,Al-Isra | The Night Journey,2,medium
+Raad-Mohammad-Al-Kurdi,18,Al-Kahf | The Cave,2,medium
+Raad-Mohammad-Al-Kurdi,19,Maryam | Mary,2,medium
+Raad-Mohammad-Al-Kurdi,20,Ta Ha | The letters Ta and Ha,2,medium
+Raad-Mohammad-Al-Kurdi,21,Al-Anbya | The Prophets,2,medium
+Raad-Mohammad-Al-Kurdi,22,Al-Hajj | The Pilgrimage,2,medium
+Raad-Mohammad-Al-Kurdi,25,Al Furqan | The Criterion,2,medium
+Raad-Mohammad-Al-Kurdi,26,Ash-Shu'ara | The Poets,2,medium
+Raad-Mohammad-Al-Kurdi,27,An-Naml | The Ant,2,medium
+Raad-Mohammad-Al-Kurdi,28,Al-Qasas | The Stories,2,medium
+Raad-Mohammad-Al-Kurdi,29,Al-'Ankabut | The Spider,2,medium
+Raad-Mohammad-Al-Kurdi,30,Ar-Rum | The Romans,2,medium short
+Raad-Mohammad-Al-Kurdi,31,Luqman | Luqman,2,medium short
+Raad-Mohammad-Al-Kurdi,32,As-Sajdah | The Prostration,2,medium short
+Raad-Mohammad-Al-Kurdi,33,Al-Ahzab| The Combined Forces,2,medium
+Raad-Mohammad-Al-Kurdi,34,Saba | Sheba,2,medium
+Raad-Mohammad-Al-Kurdi,35,Fatir | Originator,2,medium
+Raad-Mohammad-Al-Kurdi,36,Ya Sin | The letters Ya and Sin,2,medium
+Raad-Mohammad-Al-Kurdi,38,Sad | The letter Sad,2,medium
+Raad-Mohammad-Al-Kurdi,39,Az-Zumar | The Troops,2,medium
+Raad-Mohammad-Al-Kurdi,41,Fussilat | Explained in Detail,2,medium
+Raad-Mohammad-Al-Kurdi,43,Az-Zukhruf | The Ornaments of Gold,2,medium
+Raad-Mohammad-Al-Kurdi,44,Ad-Dukhan | The Smoke,2,medium short
+Raad-Mohammad-Al-Kurdi,45,Al-Jathiyah | The Crouching,2,medium short
+Raad-Mohammad-Al-Kurdi,46,Al-Ahqaf | The Wind-Curved Sandhills,2,medium short
+Raad-Mohammad-Al-Kurdi,47,Muhammad,2,medium short
+Raad-Mohammad-Al-Kurdi,48,Al-Fath | The Victory,2,medium short
+Raad-Mohammad-Al-Kurdi,49,Al-Hujurat | The Rooms,2,medium short
+Raad-Mohammad-Al-Kurdi,50,Qaf | The letter Qaf,2,medium short
+Raad-Mohammad-Al-Kurdi,51,Adh-Dhariyat | The Winnowing Winds,2,medium short
+Raad-Mohammad-Al-Kurdi,52,At-Tur | The Mountain,2,medium short
+Raad-Mohammad-Al-Kurdi,53,An-Najm | The Star,2,medium short
+Raad-Mohammad-Al-Kurdi,54,Al-Qamar | The Moon,2,medium short
+Raad-Mohammad-Al-Kurdi,55,Ar-Rahman | The Beneficent,2,medium short
+Raad-Mohammad-Al-Kurdi,57,Al-Hadid | The Iron,2,medium short
+Raad-Mohammad-Al-Kurdi,58,Al-Mujadila | The Pleading Woman,2,medium short
+Raad-Mohammad-Al-Kurdi,59,Al-Hashr | The Exile,2,medium short
+Raad-Mohammad-Al-Kurdi,60,Al-Mumtahanah | She that is to be examined,2,medium short
+Raad-Mohammad-Al-Kurdi,61,As-Saf | The Ranks,2,short
+Raad-Mohammad-Al-Kurdi,62,Al-Jumu'ah | The Congregation / Friday,2,short
+Raad-Mohammad-Al-Kurdi,63,Al-Munafiqun | The Hypocrites,2,short
+Raad-Mohammad-Al-Kurdi,64,At-Taghabun | The Mutual Disillusion,2,short
+Raad-Mohammad-Al-Kurdi,65,At-Talaq | The Divorce,2,short
+Raad-Mohammad-Al-Kurdi,66,At-Tahrim | The Prohibition,2,short
+Raad-Mohammad-Al-Kurdi,67,Al-Mulk | The Sovereignty,2,short
+Raad-Mohammad-Al-Kurdi,68,Al-Qalam | The Pen,2,short
+Raad-Mohammad-Al-Kurdi,69,Al-Haqqah | The Reality,2,short
+Raad-Mohammad-Al-Kurdi,70,Al-Ma'arij | The Ascending Stairways,2,short
+Raad-Mohammad-Al-Kurdi,71,Nuh | Noah,2,short
+Raad-Mohammad-Al-Kurdi,72,Al-Jinn | The Jinn,2,short
+Raad-Mohammad-Al-Kurdi,73,Al-Muzzammil | The Enshrouded One,2,short
+Raad-Mohammad-Al-Kurdi,74,Al-Muddaththir | The Cloaked One,2,short
+Raad-Mohammad-Al-Kurdi,75,Al-Qiyamah | The Resurrection,2,short
+Raad-Mohammad-Al-Kurdi,76,Al-Insan | The Human,2,short
+Raad-Mohammad-Al-Kurdi,77,Al-Mursalat | Emissaries,2,short
+Raad-Mohammad-Al-Kurdi,78,An-Naba | The Tidings,2,short
+Raad-Mohammad-Al-Kurdi,79,An-Nazi'at | Those who drag forth,2,short
+Raad-Mohammad-Al-Kurdi,80,'Abasa | He Frowned,2,short
+Raad-Mohammad-Al-Kurdi,81,At-Takwir | The Overthrowing,2,short
+Raad-Mohammad-Al-Kurdi,82,Al-Infitar | The Cleaving,2,short
+Raad-Mohammad-Al-Kurdi,83,Al-Mutaffifin | The Defrauding,2,short
+Raad-Mohammad-Al-Kurdi,84,Al-Inshiqaq | The Sundering,2,short
+Raad-Mohammad-Al-Kurdi,85,Al-Buruj | The Mansions of the Stars,2,short
+Raad-Mohammad-Al-Kurdi,86,At-Tariq | The Nightcomer,2,short
+Raad-Mohammad-Al-Kurdi,87,Al-A'la | The Most High,2,short
+Raad-Mohammad-Al-Kurdi,88,Al-Ghashiyah | The Overwhelming,2,short
+Raad-Mohammad-Al-Kurdi,89,Al-Fajr | The Dawn,2,short
+Raad-Mohammad-Al-Kurdi,90,Al-Balad | The City,2,short
+Raad-Mohammad-Al-Kurdi,91,Ash-Shams | The Sun,2,short
+Raad-Mohammad-Al-Kurdi,92,Al-Layl | The Night,2,short
+Raad-Mohammad-Al-Kurdi,93,Ad-Duhaa | The Morning Hours,2,short
+Raad-Mohammad-Al-Kurdi,94,Ash-Sharh | The Relief,2,short
+Raad-Mohammad-Al-Kurdi,95,At-Tin | The Fig,2,short
+Raad-Mohammad-Al-Kurdi,96,Al-'Alaq | The Clot,2,short
+Raad-Mohammad-Al-Kurdi,97,Al-Qadr | The Power,2,short
+Raad-Mohammad-Al-Kurdi,98,Al-Bayyinah | The Clear Proof,2,short
+Raad-Mohammad-Al-Kurdi,99,Az-Zalzalah | The Earthquake,2,short
+Raad-Mohammad-Al-Kurdi,100,Al-'Adiyat | The Courser,2,short
+Raad-Mohammad-Al-Kurdi,101,Al-Qari'ah | The Calamity,2,short
+Raad-Mohammad-Al-Kurdi,102,At-Takathur | The Rivalry in world increase,2,short
+Raad-Mohammad-Al-Kurdi,103,Al-'Asr | The Declining Day,2,short
+Raad-Mohammad-Al-Kurdi,104,Al-Humazah | The Traducer,2,short
+Raad-Mohammad-Al-Kurdi,105,Al-Fil | The Elephant,2,short
+Raad-Mohammad-Al-Kurdi,106,Quraysh,2,short
+Raad-Mohammad-Al-Kurdi,107,Al-Ma'un | The Small Kindnesses,2,short
+Raad-Mohammad-Al-Kurdi,108,Al-Kawthar | The Abundance,2,short
+Raad-Mohammad-Al-Kurdi,109,Al-Kafirun | The Disbelievers,2,short
+Raad-Mohammad-Al-Kurdi,110,An-Nasr | The Divine Support,2,short
+Raad-Mohammad-Al-Kurdi,111,Al-Masad | The Palm Fiber,2,short
+Raad-Mohammad-Al-Kurdi,112,Al-Ikhlas | The Sincerity,2,short
+Raad-Mohammad-Al-Kurdi,113,Al-Falaq | The Daybreak,2,short
+Raad-Mohammad-Al-Kurdi,114,An-Nas | Mankind,2,short
+Yasser-Al-Dosari,1,Al-Fatiha | The Opener,3,short
+Yasser-Al-Dosari,2,Al-Baqarah | The Cow,3,long
+Yasser-Al-Dosari,3,Ali 'Imran | Family of 'Imran,3,long
+Yasser-Al-Dosari,4,An-Nisa | The Women,3,long
+Yasser-Al-Dosari,5,Al-Ma'idah | The Table Spread,3,long
+Yasser-Al-Dosari,6,Al-An'am | The Cattle,3,long
+Yasser-Al-Dosari,7,Al-A'raf | The Heights,3,long
+Yasser-Al-Dosari,8,Al-Anfal | The Spoils of War,3,medium
+Yasser-Al-Dosari,9,At-Tawbah | The Repentance,3,medium long
+Yasser-Al-Dosari,10,Yunus | Jonah,3,medium
+Yasser-Al-Dosari,11,Hud | Hud,3,medium long
+Yasser-Al-Dosari,12,Yusuf | Joseph,3,medium long
+Yasser-Al-Dosari,13,Ar-Ra'd | The Thunder,3,medium short
+Yasser-Al-Dosari,14,Ibrahim | Abraham,3,medium short
+Yasser-Al-Dosari,15,Al-Hijr | The Rocky Tract,3,medium short
+Yasser-Al-Dosari,16,An-Nahl | The Bee,3,medium long
+Yasser-Al-Dosari,17,Al-Isra | The Night Journey,3,medium
+Yasser-Al-Dosari,18,Al-Kahf | The Cave,3,medium
+Yasser-Al-Dosari,19,Maryam | Mary,3,medium
+Yasser-Al-Dosari,20,Ta Ha | The letters Ta and Ha,3,medium
+Yasser-Al-Dosari,21,Al-Anbya | The Prophets,3,medium
+Yasser-Al-Dosari,22,Al-Hajj | The Pilgrimage,3,medium
+Yasser-Al-Dosari,23,Al-Mu'minun | The Believers,3,medium
+Yasser-Al-Dosari,24,An-Nur | The Light,3,medium
+Yasser-Al-Dosari,25,Al Furqan | The Criterion,3,medium
+Yasser-Al-Dosari,26,Ash-Shu'ara | The Poets,3,medium
+Yasser-Al-Dosari,27,An-Naml | The Ant,3,medium
+Yasser-Al-Dosari,28,Al-Qasas | The Stories,3,medium
+Yasser-Al-Dosari,29,Al-'Ankabut | The Spider,3,medium
+Yasser-Al-Dosari,30,Ar-Rum | The Romans,3,medium short
+Yasser-Al-Dosari,31,Luqman | Luqman,3,medium short
+Yasser-Al-Dosari,32,As-Sajdah | The Prostration,3,medium short
+Yasser-Al-Dosari,33,Al-Ahzab| The Combined Forces,3,medium
+Yasser-Al-Dosari,34,Saba | Sheba,3,medium
+Yasser-Al-Dosari,35,Fatir | Originator,3,medium
+Yasser-Al-Dosari,36,Ya Sin | The letters Ya and Sin,3,medium
+Yasser-Al-Dosari,37,As-Saffat | Those who set the Ranks,3,medium
+Yasser-Al-Dosari,38,Sad | The letter Sad,3,medium
+Yasser-Al-Dosari,39,Az-Zumar | The Troops,3,medium
+Yasser-Al-Dosari,40,Ghafir | The Forgiver,3,medium
+Yasser-Al-Dosari,41,Fussilat | Explained in Detail,3,medium
+Yasser-Al-Dosari,42,Ash-Shuraa | The Consultation,3,medium
+Yasser-Al-Dosari,43,Az-Zukhruf | The Ornaments of Gold,3,medium
+Yasser-Al-Dosari,44,Ad-Dukhan | The Smoke,3,medium short
+Yasser-Al-Dosari,45,Al-Jathiyah | The Crouching,3,medium short
+Yasser-Al-Dosari,46,Al-Ahqaf | The Wind-Curved Sandhills,3,medium short
+Yasser-Al-Dosari,47,Muhammad,3,medium short
+Yasser-Al-Dosari,48,Al-Fath | The Victory,3,medium short
+Yasser-Al-Dosari,50,Qaf | The letter Qaf,3,medium short
+Yasser-Al-Dosari,51,Adh-Dhariyat | The Winnowing Winds,3,medium short
+Yasser-Al-Dosari,52,At-Tur | The Mountain,3,medium short
+Yasser-Al-Dosari,53,An-Najm | The Star,3,medium short
+Yasser-Al-Dosari,54,Al-Qamar | The Moon,3,medium short
+Yasser-Al-Dosari,55,Ar-Rahman | The Beneficent,3,medium short
+Yasser-Al-Dosari,56,Al-Waqi'ah | The Inevitable,3,medium short
+Yasser-Al-Dosari,57,Al-Hadid | The Iron,3,medium short
+Yasser-Al-Dosari,58,Al-Mujadila | The Pleading Woman,3,medium short
+Yasser-Al-Dosari,59,Al-Hashr | The Exile,3,medium short
+Yasser-Al-Dosari,60,Al-Mumtahanah | She that is to be examined,3,medium short
+Yasser-Al-Dosari,61,As-Saf | The Ranks,3,short
+Yasser-Al-Dosari,62,Al-Jumu'ah | The Congregation / Friday,3,short
+Yasser-Al-Dosari,63,Al-Munafiqun | The Hypocrites,3,short
+Yasser-Al-Dosari,64,At-Taghabun | The Mutual Disillusion,3,short
+Yasser-Al-Dosari,65,At-Talaq | The Divorce,3,short
+Yasser-Al-Dosari,66,At-Tahrim | The Prohibition,3,short
+Yasser-Al-Dosari,67,Al-Mulk | The Sovereignty,3,short
+Yasser-Al-Dosari,68,Al-Qalam | The Pen,3,short
+Yasser-Al-Dosari,69,Al-Haqqah | The Reality,3,short
+Yasser-Al-Dosari,70,Al-Ma'arij | The Ascending Stairways,3,short
+Yasser-Al-Dosari,71,Nuh | Noah,3,short
+Yasser-Al-Dosari,72,Al-Jinn | The Jinn,3,short
+Yasser-Al-Dosari,73,Al-Muzzammil | The Enshrouded One,3,short
+Yasser-Al-Dosari,74,Al-Muddaththir | The Cloaked One,3,short
+Yasser-Al-Dosari,75,Al-Qiyamah | The Resurrection,3,short
+Yasser-Al-Dosari,76,Al-Insan | The Human,3,short
+Yasser-Al-Dosari,77,Al-Mursalat | Emissaries,3,short
+Yasser-Al-Dosari,78,An-Naba | The Tidings,3,short
+Yasser-Al-Dosari,79,An-Nazi'at | Those who drag forth,3,short
+Yasser-Al-Dosari,80,'Abasa | He Frowned,3,short
+Yasser-Al-Dosari,81,At-Takwir | The Overthrowing,3,short
+Yasser-Al-Dosari,82,Al-Infitar | The Cleaving,3,short
+Yasser-Al-Dosari,83,Al-Mutaffifin | The Defrauding,3,short
+Yasser-Al-Dosari,84,Al-Inshiqaq | The Sundering,3,short
+Yasser-Al-Dosari,85,Al-Buruj | The Mansions of the Stars,3,short
+Yasser-Al-Dosari,86,At-Tariq | The Nightcomer,3,short
+Yasser-Al-Dosari,87,Al-A'la | The Most High,3,short
+Yasser-Al-Dosari,88,Al-Ghashiyah | The Overwhelming,3,short
+Yasser-Al-Dosari,89,Al-Fajr | The Dawn,3,short
+Yasser-Al-Dosari,90,Al-Balad | The City,3,short
+Yasser-Al-Dosari,91,Ash-Shams | The Sun,3,short
+Yasser-Al-Dosari,92,Al-Layl | The Night,3,short
+Yasser-Al-Dosari,93,Ad-Duhaa | The Morning Hours,3,short
+Yasser-Al-Dosari,94,Ash-Sharh | The Relief,3,short
+Yasser-Al-Dosari,95,At-Tin | The Fig,3,short
+Yasser-Al-Dosari,96,Al-'Alaq | The Clot,3,short
+Yasser-Al-Dosari,97,Al-Qadr | The Power,3,short
+Yasser-Al-Dosari,98,Al-Bayyinah | The Clear Proof,3,short
+Yasser-Al-Dosari,99,Az-Zalzalah | The Earthquake,3,short
+Yasser-Al-Dosari,100,Al-'Adiyat | The Courser,3,short
+Yasser-Al-Dosari,101,Al-Qari'ah | The Calamity,3,short
+Yasser-Al-Dosari,102,At-Takathur | The Rivalry in world increase,3,short
+Yasser-Al-Dosari,103,Al-'Asr | The Declining Day,3,short
+Yasser-Al-Dosari,104,Al-Humazah | The Traducer,3,short
+Yasser-Al-Dosari,105,Al-Fil | The Elephant,3,short
+Yasser-Al-Dosari,106,Quraysh,3,short
+Yasser-Al-Dosari,107,Al-Ma'un | The Small Kindnesses,3,short
+Yasser-Al-Dosari,108,Al-Kawthar | The Abundance,3,short
+Yasser-Al-Dosari,109,Al-Kafirun | The Disbelievers,3,short
+Yasser-Al-Dosari,110,An-Nasr | The Divine Support,3,short
+Yasser-Al-Dosari,111,Al-Masad | The Palm Fiber,3,short
+Yasser-Al-Dosari,112,Al-Ikhlas | The Sincerity,3,short
+Yasser-Al-Dosari,113,Al-Falaq | The Daybreak,3,short
+Yasser-Al-Dosari,114,An-Nas | Mankind,3,short
+Abu-Bakr-Al-Shatri,1,Al-Fatiha | The Opener,4,short
+Abu-Bakr-Al-Shatri,2,Al-Baqarah | The Cow,4,long
+Abu-Bakr-Al-Shatri,3,Ali 'Imran | Family of 'Imran,4,long
+Abu-Bakr-Al-Shatri,4,An-Nisa | The Women,4,long
+Abu-Bakr-Al-Shatri,5,Al-Ma'idah | The Table Spread,4,long
+Abu-Bakr-Al-Shatri,6,Al-An'am | The Cattle,4,long
+Abu-Bakr-Al-Shatri,7,Al-A'raf | The Heights,4,long
+Abu-Bakr-Al-Shatri,8,Al-Anfal | The Spoils of War,4,medium
+Abu-Bakr-Al-Shatri,9,At-Tawbah | The Repentance,4,medium long
+Abu-Bakr-Al-Shatri,10,Yunus | Jonah,4,medium
+Abu-Bakr-Al-Shatri,11,Hud | Hud,4,medium long
+Abu-Bakr-Al-Shatri,12,Yusuf | Joseph,4,medium long
+Abu-Bakr-Al-Shatri,13,Ar-Ra'd | The Thunder,4,medium short
+Abu-Bakr-Al-Shatri,14,Ibrahim | Abraham,4,medium short
+Abu-Bakr-Al-Shatri,15,Al-Hijr | The Rocky Tract,4,medium short
+Abu-Bakr-Al-Shatri,16,An-Nahl | The Bee,4,medium long
+Abu-Bakr-Al-Shatri,17,Al-Isra | The Night Journey,4,medium
+Abu-Bakr-Al-Shatri,18,Al-Kahf | The Cave,4,medium
+Abu-Bakr-Al-Shatri,19,Maryam | Mary,4,medium
+Abu-Bakr-Al-Shatri,20,Ta Ha | The letters Ta and Ha,4,medium
+Abu-Bakr-Al-Shatri,21,Al-Anbya | The Prophets,4,medium
+Abu-Bakr-Al-Shatri,22,Al-Hajj | The Pilgrimage,4,medium
+Abu-Bakr-Al-Shatri,23,Al-Mu'minun | The Believers,4,medium
+Abu-Bakr-Al-Shatri,24,An-Nur | The Light,4,medium
+Abu-Bakr-Al-Shatri,25,Al Furqan | The Criterion,4,medium
+Abu-Bakr-Al-Shatri,26,Ash-Shu'ara | The Poets,4,medium
+Abu-Bakr-Al-Shatri,27,An-Naml | The Ant,4,medium
+Abu-Bakr-Al-Shatri,28,Al-Qasas | The Stories,4,medium
+Abu-Bakr-Al-Shatri,29,Al-'Ankabut | The Spider,4,medium
+Abu-Bakr-Al-Shatri,30,Ar-Rum | The Romans,4,medium short
+Abu-Bakr-Al-Shatri,31,Luqman | Luqman,4,medium short
+Abu-Bakr-Al-Shatri,32,As-Sajdah | The Prostration,4,medium short
+Abu-Bakr-Al-Shatri,33,Al-Ahzab| The Combined Forces,4,medium
+Abu-Bakr-Al-Shatri,34,Saba | Sheba,4,medium
+Abu-Bakr-Al-Shatri,35,Fatir | Originator,4,medium
+Abu-Bakr-Al-Shatri,36,Ya Sin | The letters Ya and Sin,4,medium
+Abu-Bakr-Al-Shatri,37,As-Saffat | Those who set the Ranks,4,medium
+Abu-Bakr-Al-Shatri,38,Sad | The letter Sad,4,medium
+Abu-Bakr-Al-Shatri,39,Az-Zumar | The Troops,4,medium
+Abu-Bakr-Al-Shatri,40,Ghafir | The Forgiver,4,medium
+Abu-Bakr-Al-Shatri,41,Fussilat | Explained in Detail,4,medium
+Abu-Bakr-Al-Shatri,42,Ash-Shuraa | The Consultation,4,medium
+Abu-Bakr-Al-Shatri,43,Az-Zukhruf | The Ornaments of Gold,4,medium
+Abu-Bakr-Al-Shatri,44,Ad-Dukhan | The Smoke,4,medium short
+Abu-Bakr-Al-Shatri,45,Al-Jathiyah | The Crouching,4,medium short
+Abu-Bakr-Al-Shatri,46,Al-Ahqaf | The Wind-Curved Sandhills,4,medium short
+Abu-Bakr-Al-Shatri,47,Muhammad,4,medium short
+Abu-Bakr-Al-Shatri,48,Al-Fath | The Victory,4,medium short
+Abu-Bakr-Al-Shatri,49,Al-Hujurat | The Rooms,4,medium short
+Abu-Bakr-Al-Shatri,50,Qaf | The letter Qaf,4,medium short
+Abu-Bakr-Al-Shatri,51,Adh-Dhariyat | The Winnowing Winds,4,medium short
+Abu-Bakr-Al-Shatri,52,At-Tur | The Mountain,4,medium short
+Abu-Bakr-Al-Shatri,53,An-Najm | The Star,4,medium short
+Abu-Bakr-Al-Shatri,54,Al-Qamar | The Moon,4,medium short
+Abu-Bakr-Al-Shatri,55,Ar-Rahman | The Beneficent,4,medium short
+Abu-Bakr-Al-Shatri,56,Al-Waqi'ah | The Inevitable,4,medium short
+Abu-Bakr-Al-Shatri,57,Al-Hadid | The Iron,4,medium short
+Abu-Bakr-Al-Shatri,58,Al-Mujadila | The Pleading Woman,4,medium short
+Abu-Bakr-Al-Shatri,59,Al-Hashr | The Exile,4,medium short
+Abu-Bakr-Al-Shatri,60,Al-Mumtahanah | She that is to be examined,4,medium short
+Abu-Bakr-Al-Shatri,61,As-Saf | The Ranks,4,short
+Abu-Bakr-Al-Shatri,62,Al-Jumu'ah | The Congregation / Friday,4,short
+Abu-Bakr-Al-Shatri,63,Al-Munafiqun | The Hypocrites,4,short
+Abu-Bakr-Al-Shatri,64,At-Taghabun | The Mutual Disillusion,4,short
+Abu-Bakr-Al-Shatri,65,At-Talaq | The Divorce,4,short
+Abu-Bakr-Al-Shatri,66,At-Tahrim | The Prohibition,4,short
+Abu-Bakr-Al-Shatri,67,Al-Mulk | The Sovereignty,4,short
+Abu-Bakr-Al-Shatri,68,Al-Qalam | The Pen,4,short
+Abu-Bakr-Al-Shatri,69,Al-Haqqah | The Reality,4,short
+Abu-Bakr-Al-Shatri,70,Al-Ma'arij | The Ascending Stairways,4,short
+Abu-Bakr-Al-Shatri,71,Nuh | Noah,4,short
+Abu-Bakr-Al-Shatri,72,Al-Jinn | The Jinn,4,short
+Abu-Bakr-Al-Shatri,73,Al-Muzzammil | The Enshrouded One,4,short
+Abu-Bakr-Al-Shatri,74,Al-Muddaththir | The Cloaked One,4,short
+Abu-Bakr-Al-Shatri,75,Al-Qiyamah | The Resurrection,4,short
+Abu-Bakr-Al-Shatri,76,Al-Insan | The Human,4,short
+Abu-Bakr-Al-Shatri,77,Al-Mursalat | Emissaries,4,short
+Abu-Bakr-Al-Shatri,78,An-Naba | The Tidings,4,short
+Abu-Bakr-Al-Shatri,79,An-Nazi'at | Those who drag forth,4,short
+Abu-Bakr-Al-Shatri,80,'Abasa | He Frowned,4,short
+Abu-Bakr-Al-Shatri,81,At-Takwir | The Overthrowing,4,short
+Abu-Bakr-Al-Shatri,82,Al-Infitar | The Cleaving,4,short
+Abu-Bakr-Al-Shatri,83,Al-Mutaffifin | The Defrauding,4,short
+Abu-Bakr-Al-Shatri,84,Al-Inshiqaq | The Sundering,4,short
+Abu-Bakr-Al-Shatri,85,Al-Buruj | The Mansions of the Stars,4,short
+Abu-Bakr-Al-Shatri,86,At-Tariq | The Nightcomer,4,short
+Abu-Bakr-Al-Shatri,87,Al-A'la | The Most High,4,short
+Abu-Bakr-Al-Shatri,88,Al-Ghashiyah | The Overwhelming,4,short
+Abu-Bakr-Al-Shatri,89,Al-Fajr | The Dawn,4,short
+Abu-Bakr-Al-Shatri,90,Al-Balad | The City,4,short
+Abu-Bakr-Al-Shatri,91,Ash-Shams | The Sun,4,short
+Abu-Bakr-Al-Shatri,92,Al-Layl | The Night,4,short
+Abu-Bakr-Al-Shatri,93,Ad-Duhaa | The Morning Hours,4,short
+Abu-Bakr-Al-Shatri,94,Ash-Sharh | The Relief,4,short
+Abu-Bakr-Al-Shatri,95,At-Tin | The Fig,4,short
+Abu-Bakr-Al-Shatri,96,Al-'Alaq | The Clot,4,short
+Abu-Bakr-Al-Shatri,97,Al-Qadr | The Power,4,short
+Abu-Bakr-Al-Shatri,98,Al-Bayyinah | The Clear Proof,4,short
+Abu-Bakr-Al-Shatri,99,Az-Zalzalah | The Earthquake,4,short
+Abu-Bakr-Al-Shatri,100,Al-'Adiyat | The Courser,4,short
+Abu-Bakr-Al-Shatri,101,Al-Qari'ah | The Calamity,4,short
+Abu-Bakr-Al-Shatri,102,At-Takathur | The Rivalry in world increase,4,short
+Abu-Bakr-Al-Shatri,103,Al-'Asr | The Declining Day,4,short
+Abu-Bakr-Al-Shatri,104,Al-Humazah | The Traducer,4,short
+Abu-Bakr-Al-Shatri,105,Al-Fil | The Elephant,4,short
+Abu-Bakr-Al-Shatri,106,Quraysh,4,short
+Abu-Bakr-Al-Shatri,107,Al-Ma'un | The Small Kindnesses,4,short
+Abu-Bakr-Al-Shatri,108,Al-Kawthar | The Abundance,4,short
+Abu-Bakr-Al-Shatri,109,Al-Kafirun | The Disbelievers,4,short
+Abu-Bakr-Al-Shatri,110,An-Nasr | The Divine Support,4,short
+Abu-Bakr-Al-Shatri,111,Al-Masad | The Palm Fiber,4,short
+Abu-Bakr-Al-Shatri,112,Al-Ikhlas | The Sincerity,4,short
+Abu-Bakr-Al-Shatri,113,Al-Falaq | The Daybreak,4,short
+Abu-Bakr-Al-Shatri,114,An-Nas | Mankind,4,short
+Abdallah-Humeid,12,Yusuf | Joseph,5,medium long
+Abdallah-Humeid,18,Al-Kahf | The Cave,5,medium
+Abdallah-Humeid,23,Al-Mu'minun | The Believers,5,medium
+Abdallah-Humeid,29,Al-'Ankabut | The Spider,5,medium
+Abdallah-Humeid,36,Ya Sin | The letters Ya and Sin,5,medium
+Abdallah-Humeid,42,Ash-Shuraa | The Consultation,5,medium
+Abdallah-Humeid,51,Adh-Dhariyat | The Winnowing Winds,5,medium short
+Abdallah-Humeid,52,At-Tur | The Mountain,5,medium short
+Abdallah-Humeid,55,Ar-Rahman | The Beneficent,5,medium short
+Abdallah-Humeid,62,Al-Jumu'ah | The Congregation / Friday,5,short
+Abdallah-Humeid,63,Al-Munafiqun | The Hypocrites,5,short
+Abdallah-Humeid,67,Al-Mulk | The Sovereignty,5,short
+Abdallah-Humeid,68,Al-Qalam | The Pen,5,short
+Abdallah-Humeid,69,Al-Haqqah | The Reality,5,short
+Abdallah-Humeid,70,Al-Ma'arij | The Ascending Stairways,5,short
+Abdallah-Humeid,73,Al-Muzzammil | The Enshrouded One,5,short
+Abdallah-Humeid,74,Al-Muddaththir | The Cloaked One,5,short
+Abdallah-Humeid,75,Al-Qiyamah | The Resurrection,5,short
+Abdallah-Humeid,78,An-Naba | The Tidings,5,short
+Abdallah-Humeid,79,An-Nazi'at | Those who drag forth,5,short
+Abdallah-Humeid,80,'Abasa | He Frowned,5,short
+Abdallah-Humeid,83,Al-Mutaffifin | The Defrauding,5,short
+Abdallah-Humeid,85,Al-Buruj | The Mansions of the Stars,5,short
+Abdallah-Humeid,87,Al-A'la | The Most High,5,short
+Abdallah-Humeid,89,Al-Fajr | The Dawn,5,short
+Abdallah-Humeid,93,Ad-Duhaa | The Morning Hours,5,short
+Abdallah-Humeid,109,Al-Kafirun | The Disbelievers,5,short
+Abdallah-Humeid,112,Al-Ikhlas | The Sincerity,5,short
