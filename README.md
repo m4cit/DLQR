@@ -12,7 +12,8 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning (
 2. Install [PyTorch](https://pytorch.org/get-started/locally/) (I used 2.2.2 + cu121)
 3. Install the required packages by running `pip install -r requirements.txt` in your shell of choice. Make sure you are in the project directory.
 4. For Linux users: Install sox via `pip install sox`.
-5. The train and test data which you can find under *releases*. The zip file only contains the original files, as well as the segmented / chunk files. The transformed versions can be created with the PowerShell script *resample_segment_audio_files.ps1*, if need be.
+5. Download the test data under *releases*. The zip file only contains the segmented files / chunks. The train data is over 27 GBs large, which is why I can't upload it here.
+
 
 ## Usage
 **Example 1:**
@@ -62,12 +63,13 @@ As the name suggests, this script is resampling the original audio files and spl
 ## Performance
 <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/gallery/demo.png' width="900">
 
-The *Demo* image above suggests that 50% of the unseen data (during training) in the test set is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
+The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
 
-About 64% of the seen data is being predicted correctly. Adding low and high intensity noise to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning, which seems to affect results (6, 7). These portions were removed before training.
+As for the seen data, about 64% is being predicted correctly. Adding low and high intensity noise (simulating re-recordings via microphone) to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning which seems to affect results (6, 7). These portions were removed before training.
 
 
 ## Used Libraries / Open Source Projects
 * [PyTorch](https://pytorch.org/) and its dependencies
 * [tqdm](https://tqdm.github.io/)
+* [pandas](https://pandas.pydata.org/)
 
