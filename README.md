@@ -47,9 +47,9 @@ Delete the existing model to train from scratch (both options require training d
 ## Data
 The samples were manually obtained through the following websites:
 
-*\ [Quran Central](https://qurancentral.com/)
+[*\ Quran Central](https://qurancentral.com/)
 
-*\ [Quran Player MP3](https://www.quranplayermp3.com/)
+[*\ Quran Player MP3](https://www.quranplayermp3.com/)
 
 Web scraping scripts didn't really work, and only MP3s were available.
 
