@@ -44,12 +44,20 @@ You can predict with the included pre-trained models (currently one model), and 
 Delete the existing model to train from scratch (both options require training data).
 
 
+## Performance
+<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo.png' width="900">
+
+The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
+
+As for the seen data, about 64% is being predicted correctly. Adding low and high intensity noise (simulating re-recordings via microphone) to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning which seems to affect results (6, 7). These portions were removed before training.
+
+
 ## Data
 The samples were manually obtained through the following websites:
 
-- [Quran Central](https://qurancentral.com/)
+* [Quran Central](https://qurancentral.com/)
 
-- [Quran Player MP3](https://www.quranplayermp3.com/)
+* [Quran Player MP3](https://www.quranplayermp3.com/)
 
 Web scraping scripts didn't really work, and only MP3s were available.
 
@@ -66,16 +74,7 @@ Trims the beginning of the original audio files (start time and details are spec
 As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
 
 
-## Performance
-<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo.png' width="900">
-
-The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
-
-As for the seen data, about 64% is being predicted correctly. Adding low and high intensity noise (simulating re-recordings via microphone) to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning which seems to affect results (6, 7). These portions were removed before training.
-
-
 ## Used Libraries / Open Source Projects
 * [PyTorch](https://pytorch.org/) and its dependencies
 * [tqdm](https://tqdm.github.io/)
 * [pandas](https://pandas.pydata.org/)
-
