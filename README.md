@@ -31,7 +31,11 @@ or
 >python DLQR.py --train --model cnn_reciter --device cpu
 >```
 
-You can predict with the included pre-trained models (currently one model), and re-train if needed. Delete the existing model to train from scratch (both options require training data).
+You can predict with the included pre-trained models (currently one model), and re-train if needed.
+
+The input audio file should be 15 seconds long. If it's longer, it will be trimmed before predicting.
+
+Delete the existing model to train from scratch (both options require training data).
 
 
 ## Data
