@@ -37,6 +37,7 @@ or
 >python DLQR.py --train --model cnn_reciter --device cpu
 >```
 >
+\
 
 The input audio file should be 15 seconds long. If it's longer, it will be trimmed before predicting.
 
