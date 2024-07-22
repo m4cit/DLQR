@@ -14,6 +14,12 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning. 
 ## Usage
 **Example 1:**
 >```
+>python DLQR.py --demo
+>```
+\
+\
+**Example 2:**
+>```
 >python DLQR.py --predict -t reciter -i .\path\to_some\file.mp3 -dev cpu
 >```
 or
@@ -22,7 +28,7 @@ or
 >```
 \
 \
-**Example 2:**
+**Example 3:**
 >```
 >python DLQR.py --train -m cnn_reciter -dev cuda
 >```
@@ -32,10 +38,6 @@ or
 >```
 \
 \
-**Example 3:**
->```
->python DLQR.py --demo
->```
 
 
 The input audio file should be 15 seconds long. If it's longer, it will be trimmed before predicting.
