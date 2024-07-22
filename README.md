@@ -39,7 +39,6 @@ or
 \
 \
 
-
 The input audio file should be 15 seconds long. If it's longer, it will be trimmed before predicting.
 
 You can predict with the included pre-trained models (currently one model), and re-train if needed.
