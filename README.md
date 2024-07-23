@@ -1,6 +1,6 @@
 # Deep-Learning Quran Recognition
 <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="left" height="200">
-DLQR is an experimental project for [Qur'an] (https://quran.com/) audio recognition via Deep-Learning. A total of 34,403 audio samples (15 second chunks, 6 reciters) were used to train a custom Convolutional Neural Network. The goal is to predict the reciter and / or the chapter. The chapter prediction is not fully thought out yet, thus not available.<br clear="left"/>
+DLQR is an experimental project for [Quran](https://quran.com/) audio recognition via Deep-Learning. A total of 34,403 audio samples (15 second chunks, 6 reciters) were used to train a custom Convolutional Neural Network. The goal is to predict the reciter and / or the chapter. The chapter prediction is not fully thought out yet, thus not available.<br clear="left"/>
 
 
 ## Requirements
