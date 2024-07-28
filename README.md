@@ -10,7 +10,7 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning. 
 4. For Linux users: Install sox via `pip3 install sox`.
 5. Unzip the test set located in *data_and_models/data/test/*.
 
-The train data is over 27 GBs large, which is why I can't upload it here.
+The training data is over 27 GBs large, which is why I can't upload it here.
 
 
 ## Usage
