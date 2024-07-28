@@ -8,7 +8,9 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning. 
 2. Install [PyTorch](https://pytorch.org/get-started/locally/) (I used 2.2.2 + cu121)
 3. Install the required packages by running `pip install -r requirements.txt` in your shell of choice. Make sure you are in the project directory.
 4. For Linux users: Install sox via `pip3 install sox`.
-5. Download the test data under *releases*. The zip file only contains the segmented files / chunks. The train data is over 27 GBs large, which is why I can't upload it here.
+5. Unzip the test data located in *data_and_models/data/test/*.
+
+The train data is over 27 GBs large, which is why I can't upload it here.
 
 
 ## Usage
@@ -69,7 +71,7 @@ For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](http
 This could have been achieved with PyTorch itself, but I always wanted to write some PowerShell scripts :)
 
 ### trim_audio.ps1:
-Trims the beginning of the original audio files.Start time and details are specified in the correction.csv file, located in ".\data_and_models\data\\". Most files from the cited websites contain portions in the beginning, which aren't from the reciters themselves.
+Trims the beginning of the original audio files. Start time and details are specified in the correction.csv file, located in *data_and_models/data/*. Most files from the cited websites contain portions in the beginning, which aren't from the reciters themselves.
 
 ### resample_segment_audio_files.ps1:
 As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
