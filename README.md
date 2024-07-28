@@ -8,7 +8,7 @@ DLQR is an experimental project for Qur'an audio recognition via Deep-Learning. 
 2. Install [PyTorch](https://pytorch.org/get-started/locally/) (I used 2.2.2 + cu121)
 3. Install the required packages by running `pip install -r requirements.txt` in your shell of choice. Make sure you are in the project directory.
 4. For Linux users: Install sox via `pip3 install sox`.
-5. Unzip the test data located in *data_and_models/data/test/*.
+5. Unzip the test set located in *data_and_models/data/test/*.
 
 The train data is over 27 GBs large, which is why I can't upload it here.
 
