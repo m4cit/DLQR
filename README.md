@@ -48,9 +48,9 @@ Delete the existing model to train from scratch (both options require training d
 ## Performance
 <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo_test_set.png' width="900">
 
-The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
+The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% (5/10) of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
 
-As for the seen data, about 64% is being predicted correctly. Adding low and high intensity noise (simulating re-recordings via microphone) to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning which seems to affect results (6, 7). These portions were removed before training.
+As for the seen data, over 90% (10/11) is being predicted correctly. Adding low and high intensity noise (simulating re-recordings via microphone) to one of the samples made no difference (15, 16). As mentioned, most files contain a portion in the beginning which seems to affect results (6, 7). These portions were removed before training.
 
 
 ## Data
