@@ -94,6 +94,8 @@ class ReciterTestDataset(Dataset):
         # check num of audio channels
         if signal.shape[0] >= 2:
             signal = torch.mean(signal, dim=0).unsqueeze(0)
+        resampler = T.Resample(sample_rate, 44100, lowpass_filter_width=128, rolloff=0.99, dtype=signal.dtype)
+        signal = resampler(signal)
         signal = self._right_pad(signal)
         signal = self.transformation(signal)
         return signal, reciter_num, chapter, filename, info
