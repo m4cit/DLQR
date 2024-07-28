@@ -46,7 +46,7 @@ Delete the existing model to train from scratch (both options require training d
 
 
 ## Performance
-<img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo.png' width="900">
+<img src='https://raw. githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/demo.png' width="900">
 
 The train test data ratio isn't high enough but nevertheless, there are some observations worth mentioning. The image above suggests that 50% of the unseen data is being recognized / predicted correctly, and that the accuracy between different reciters is not consistent.
 
