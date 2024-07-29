@@ -68,7 +68,7 @@ Web scraping scripts didn't really work, and only MP3s were available.
 
 
 ## Preprocessing
-For the preprocessing I wrote two PowerShell scripts. Both utilize [ffmpeg](https://www.ffmpeg.org/).
+For the preprocessing step I wrote two PowerShell scripts. Both utilize [ffmpeg](https://www.ffmpeg.org/).
 
 This could have been achieved with PyTorch itself, but I always wanted to write some PowerShell scripts :)
 
