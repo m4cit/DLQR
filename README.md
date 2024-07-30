@@ -79,7 +79,7 @@ Trims the beginning of the original audio files. Start time and details are spec
 As the name suggests, this script is resampling the original audio files and splits them into 15 second chunks (.wav format to avoid re-encoding and further quality loss).
 
 
-## Used Libraries / Open Source Projects
+## Used Libraries
 * [PyTorch](https://pytorch.org/) and its dependencies
 * [tqdm](https://tqdm.github.io/)
 * [pandas](https://pandas.pydata.org/)
