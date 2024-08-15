@@ -1,4 +1,4 @@
-# Deep-Learning Quran Recognition
+# DLQR (Deep-Learning Quran Recognition)
 <img src='https://raw.githubusercontent.com/m4cit/Deep-Learning-Quran-Recognition/main/gallery/icon.png' align="left" height="200">
 DLQR is an experimental project for Qur'an audio recognition via Deep-Learning models, trained on Mel Spectogram images.
 
